@@ -1,6 +1,6 @@
 package controller;
 
-public class CollerCommand implements Command {
+public class Redo implements Command {
     @Override
     public void execute() {
 

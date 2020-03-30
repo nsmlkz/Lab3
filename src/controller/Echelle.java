@@ -1,6 +1,6 @@
 package controller;
 
-public class CollerCommand implements Command {
+public class Echelle implements  Command {
     @Override
     public void execute() {
 

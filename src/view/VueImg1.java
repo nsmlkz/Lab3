@@ -1,6 +1,6 @@
 package view;
 
-public class ViewThumbnail implements Observer {
+public class VueImg1 implements Observer {
     @Override
     public void update() {
 

@@ -1,4 +1,5 @@
 package model;
 
-public class Image {
+public class Image extends  Subject{
+
 }
