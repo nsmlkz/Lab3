@@ -1,4 +1,6 @@
-package patterns;
+package model;
+
+import view.Observer;
 
 import java.util.ArrayList;
 import java.util.List;
