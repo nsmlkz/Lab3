@@ -1,6 +1,6 @@
 package controller;
 
-public class Redo implements Command {
+public class ZoomCommand implements Command {
     @Override
     public void execute() {
 

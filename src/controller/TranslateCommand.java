@@ -1,6 +1,6 @@
 package controller;
 
-public class Translater implements  Command {
+public class TranslateCommand implements Command {
     @Override
     public void execute() {
 
